@@ -1,5 +1,8 @@
 Lumen Dingo Route List
 ======================
+
+[![Latest Stable Version](https://poser.pugx.org/widnyana/lumen-dingo-routes-list/v/stable)](https://packagist.org/packages/widnyana/lumen-dingo-routes-list) [![Monthly Downloads](https://poser.pugx.org/widnyana/lumen-dingo-routes-list/d/monthly)](https://packagist.org/packages/widnyana/lumen-dingo-routes-list)
+
 This code bring Dingo's `api:route` command to Lumen's `artisan`.
 
 ## Howto
